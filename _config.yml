@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Este blog fue creado por un grupo de estudiantes para compartir en la web
   algunos de nuestrxs proyectos academicos en matemáticas.
-baseurl: "LetNbeaBlog"
+baseurl: ""
 url: ""
 show_excerpts: false # set to true to show excerpts on the homepage
 
