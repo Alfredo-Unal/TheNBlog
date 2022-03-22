@@ -1,10 +1,12 @@
 title: Let $\mathbb{N}$ be a Blog
 author:
-  name: UNblog
+  name: Alfredo-Unal
   email: jourream@unal.edu.co
 description: > # this means to ignore newlines until "show_excerpts:"
   Este blog fue creado por un grupo de estudiantes para compartir en la web
   algunos de nuestrxs proyectos academicos en matemáticas.
+baseurl: "LetNbeaBlog"
+url: ""
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: sin_usuario
-    github:  UNblog
+    github:  Alfredo-Unal
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
