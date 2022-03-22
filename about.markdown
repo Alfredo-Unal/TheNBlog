@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre Nosotrxs
-permalink: /nosotrxs/
 ---
 
 Somos unos cuantos estudiantes de pregrado de la Universidad Nacional que buscamos por medio de este blog compartir
